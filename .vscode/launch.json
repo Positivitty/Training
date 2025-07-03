@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/noahkerr/Training-5",
+      "program": "/Users/noahkerr/Training-5/build/Debug/outDebug"
+    }
+  ]
+}
